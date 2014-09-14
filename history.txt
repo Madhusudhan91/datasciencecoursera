@@ -1,0 +1,135 @@
+    1  history
+    2  exit
+    3  cd test-repo
+    4  ls
+    5  echo "hello World" > a_simple_file.txt
+    6  rm a_simple_file.txt
+    7  rmdir a_simple_file.txt
+    8  touch a_simple_file.txt
+    9  echo "hello World" > a_simple_file.txt
+   10  cat a_simple_file.txt
+   11  git add a_simple_file.txt
+   12  git status
+   13  history
+   14  git add -u
+   15  git add -A a_simple_file.txt
+   16  git commit -m "A simple file called a_simple_file.txt added to the repo"
+   17  git push
+   18  git push --help
+   19  git push --all
+   20  git push --all
+   21  git pull
+   22  git push --all
+   23  git push --all
+   24  git fetch origin
+   25  git merge origin branch
+   26  ls
+   27  ls
+   28  cat a_simple_file.txt 
+   29  git push a_simple_file.txt
+   30  git config --global push.default simple
+   31  git push a_simple_file.txt
+   32  git add .
+   33  git status
+   34  git commit
+   35  git commit message
+   36  git remote add origin git@github.com:Madhusudhan91/test-repo
+   37  git push origin master
+   38  pwd
+   39  ls
+   40  git pull
+   41  git pull ...
+   42  git pull remote
+   43  git pull .
+   44  ls
+   45  git push .
+   46  git add a_simple_file.txt
+   47  git commit -m "A simple file called a_simple_file.txt"
+   48  git commit -m "A simple file called a_simple_file.txt" -a
+   49  git commit -m "A simple file called a_simple_file.txt" a_simple_file.txt
+   50  git status
+   51  pwd
+   52  .git
+   53  cd..
+   54  cd ..
+   55  cd
+   56  init
+   57  git init
+   58  git remote add origin https://github.com/Madhusudhan91/test-repo.git
+   59  exit
+   60  ls
+   61  ls test-repo/
+   62  rmdir test-repo
+   63  rmdir -r test-repo
+   64  rm -r test-repo
+   65  rm test-repo/a_simple_file.txt
+   66  pwd
+   67  cd ..
+   68  cd ~
+   69  cd 
+   70  cd .
+   71  cd test-repo/
+   72  rm a_simple_file.txt
+   73  ls
+   74  cd
+   75  rmdir test-repo
+   76  ls -a test-repo
+   77  rm -r test-repo
+   78  ls -a test-repo
+   79  ls
+   80  ls test-repo
+   81  mkdir ~/test-repo
+   82  cd ~/test-repo
+   83  git init
+   84  git remote add origin https://github.com/Madhusudhan91/test-repo.git
+   85  echo "hello world" >a_simple_file.txt
+   86  ls
+   87  cat a_simple_file.txt
+   88  git add a_simple_file.txt
+   89  git status -s
+   90  git commit -m 'a simple file called a_simple_file.txt'
+   91  git status
+   92  ls
+   93  ls -a
+   94  rm -a .git
+   95  rm .git
+   96  rmdir .git
+   97  cd .git
+   98  ls
+   99  cd
+  100  rm -r .git
+  101  ls
+  102  git init
+  103  rm test-repo/
+  104  cd test-repo
+  105  ls
+  106  ls a
+  107  ls -a
+  108  rm -r .git
+  109  y
+  110  ls -a
+  111  git add .
+  112  git status
+  113  git commit -m "a simple file called a_simple_file.txt"
+  114  git remote add origin git@github.com:Madhusudhan91/test-repo
+  115  git push origin master
+  116  git push origin master
+  117  pwd
+  118  ls
+  119  git init
+  120  git remote add origin git@github.com:Madhusudhan91/test-repo
+  121  git add .
+  122  git status
+  123  git commit "a simple file called a_simple_file.txt" -a
+  124  git commit "a simple file called a_simple_file.txt" a_simple_file.txt
+  125  git commit "a simple file called a_simple_file.txt"
+  126  ls
+  127  git commit -m "a simple file called a_simple_file.txt" a_simple_file.txt
+  128  git push origin master
+  129  cd
+  130  pwd
+  131  mkdir datasciencecoursera
+  132  cd datasciencecoursera/
+  133  pwd
+  134  echo "## This is a markdown file" > HelloWorld.md
+  135  history > history.txt
